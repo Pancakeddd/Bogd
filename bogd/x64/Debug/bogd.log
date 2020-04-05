@@ -1,0 +1,9 @@
+﻿  worldtime.cpp
+c:\users\chane\documents\c++\bogd\bogd\states.h(45): error C2079: 'MapGamestate::clock_' uses undefined struct 'worldtime_t'
+  Generating Code...
+  Compiling...
+  main.cpp
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  states.cpp
+  raylibmanager.cpp

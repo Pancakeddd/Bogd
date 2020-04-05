@@ -1,0 +1,13 @@
+﻿  main.cpp
+main.obj : error LNK2019: unresolved external symbol _InitWindow referenced in function _main
+main.obj : error LNK2019: unresolved external symbol _WindowShouldClose referenced in function _main
+main.obj : error LNK2019: unresolved external symbol _CloseWindow referenced in function _main
+main.obj : error LNK2019: unresolved external symbol _ClearBackground referenced in function _main
+main.obj : error LNK2019: unresolved external symbol _BeginDrawing referenced in function _main
+main.obj : error LNK2019: unresolved external symbol _EndDrawing referenced in function _main
+main.obj : error LNK2019: unresolved external symbol _SetTargetFPS referenced in function _main
+main.obj : error LNK2019: unresolved external symbol _IsKeyDown referenced in function _main
+main.obj : error LNK2019: unresolved external symbol _DrawCircleV referenced in function _main
+main.obj : error LNK2019: unresolved external symbol _DrawText referenced in function _main
+C:\Users\chane\Documents\c++\bogd\bogd\includes\raylib\lib\raylib.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'X86'
+C:\Users\chane\Documents\c++\bogd\Debug\bogd.exe : fatal error LNK1120: 10 unresolved externals
